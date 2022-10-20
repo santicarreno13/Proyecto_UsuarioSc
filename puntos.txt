@@ -1,0 +1,6 @@
+1. Crear un programa que halle la raiz cuadra de un numero infresado
+2.Crear un programa que regustre un usuario con sus dadtos basicos
+3.Crrear un programa que emule el inicio de session de facebook
+4.Crear un programa que capture preguntas de usuario y permita generarle respuestas
+5.Crear un programa que valide la fecha actual y genere un calendario
+
